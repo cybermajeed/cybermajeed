@@ -1,4 +1,4 @@
-<p align="right" style="font-size:large;">
+<p align="left" style="font-size:large;">
   <img src="https://komarev.com/ghpvc/?username=cybermajeed&label=Profile%20Views&color=0e75b6&style=flat" alt="cybermajeed" />
 </p>
 <h1 align="center">Hi 👋, I'm Adbul Majeed</h1>
@@ -6,11 +6,13 @@
 
 ---
 
+<div>
   <img align="right" width="50%" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="cybermajeed" />
 
 - 🔭 I’m currently working on ...
 
 - 🌱 I’m currently learning ...
+</div>
 
 ---
 
