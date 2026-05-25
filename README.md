@@ -6,7 +6,7 @@
 
 ---
 
-<img align="right" width="50%" src="./assets/stable.gif" alt="cybermajeed" />
+<img align="right" width=400 src="./assets/stable.gif" alt="cybermajeed" />
 
 🔭 I’m currently working on ...
 
