@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adbul Majeed</h1>
 <h3 align="center">I code</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cybermajeed&label=Profile%20views&color=0e75b6&style=flat" alt="cybermajeed" /> </p>
+<p align="center" style="font-size:large;">
+  <img src="https://komarev.com/ghpvc/?username=cybermajeed&label=Profile%20Views&color=0e75b6&style=flat" alt="cybermajeed" />
+</p>
 
 - 🔭 I’m currently working on **...**
 
