@@ -11,14 +11,17 @@
 
 ---
 
-### Connect with me:
-
-<p align="left">
-<a href="https://instagram.com/cybermajeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cybermajeed" height="30" width="40" /></a>
-<a href="mailto:abdul.zxmajeed@gmail.com" target="_blank">
-  <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mail" height="30" width="40" />
+<p align="center" style="scale:1.1">
+<a href="https://www.instagram.com/cybermajeed" target="blank">
+<img align="center" src="https://img.shields.io/badge/Instagram-dodgerblue?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"  />
 </a>
-<a href="https://linkedin.com/in/cybermajeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cybermajeed" height="30" width="40" /></a>
+<a style="margin:0 10px" href="mailto:abdul.zxmajeed@gmail.com" target="blank">
+<img align="center" src="https://img.shields.io/badge/mail-dodgerblue?style=for-the-badge&logo=gmail&logoColor=white" alt="mail"  />
+</a>
+<a href="mailto:abdul.zxmajeed@gmail.com" target="blank">
+<img align="center" src="https://img.shields.io/badge/LinkedIn-dodgerblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"  />
+</a>
+
 </p>
 
 ---
