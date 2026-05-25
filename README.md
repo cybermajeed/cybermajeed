@@ -12,6 +12,7 @@
 <a href="https://instagram.com/cybermajeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cybermajeed" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/cyber_majeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cyber_majeed" height="30" width="40" /></a>
 </p>
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
