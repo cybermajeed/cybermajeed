@@ -15,7 +15,10 @@
 
 <p align="left">
 <a href="https://instagram.com/cybermajeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cybermajeed" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/cyber_majeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cyber_majeed" height="30" width="40" /></a>
+<a href="mailto:abdul.zxmajeed@gmail.com" target="_blank">
+  <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mail" height="30" width="40" />
+</a>
+<a href="https://linkedin.com/in/cybermajeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cybermajeed" height="30" width="40" /></a>
 </p>
 
 ---
