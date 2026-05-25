@@ -75,7 +75,7 @@
 
 ### Top Open Source Projects
 
-![pinned](https://github-readme-stats-fast.vercel.app/api/pin/?username=cybermajeed&repo=deenbg&theme=github_dark)
+![pinned](https://github-readme-stats-fast.vercel.app/api/pin/?username=cybermajeed&repo=deenbg&theme=holi)
 ![pinned](https://github-readme-stats-fast.vercel.app/api/pin/?username=cybermajeed&repo=electronotes&theme=github_dark)
 ![pinned](https://github-readme-stats-fast.vercel.app/api/pin/?username=cybermajeed&repo=cheapgpt&theme=github_dark)
 ![pinned](https://github-readme-stats-fast.vercel.app/api/pin/?username=cybermajeed&repo=webpad&theme=github_dark)
