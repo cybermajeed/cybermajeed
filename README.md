@@ -24,17 +24,17 @@
 @@      @@@@@.               ..(((((((.        @@@         @             understand how it works
 @@     @@@@@                   ......          @@@&        @
 @@     @@@@@                                   @@@&        @       Currently Interested In:
-@@     @@@@@                   ......          @@@&        @       - FullStack Development
-@@      @@@@@,               ..(((((((.        @@@         @       - AI Automation
-@@@      @@@@@@              .((((((((.      @@@@         @@       - Cloud Engineering
-@@@       @@@@@@              ..((((*..    @@@@           @@       - Backend Engineering
-@@@@        @@@@@                        %@@@            @@@       - Product Development
+@@     @@@@@                   ......          @@@&        @          - FullStack Development
+@@      @@@@@,               ..(((((((.        @@@         @          - AI Automation
+@@@      @@@@@@              .((((((((.      @@@@         @@          - Cloud Engineering
+@@@       @@@@@@              ..((((*..    @@@@           @@          - Backend Engineering
+@@@@        @@@@@                        %@@@            @@@          - Product Development
 @@@@@@       @@@@@@@@@@@@@@@@@                         @@@@@
 @@@@@@@,       @@@@@@@@@@@@@@@@                      #@@@@@@       What I Like Building:
-@@@@@@@@@@                                         @@@@@@@@@       - Utility-focused applications
-@@@@@@@@@@@@                                     @@@@@@@@@@@       - Automation tools
-@@@@@@@@@@@@@@@@                             @@@@@@@@@@@@@@@       - Real-world software solutions
-@@@@@@@@@@@@@@@@@@@@@,                 ,@@@@@@@@@@@@@@@@@@@@       - Scalable Web Applications
+@@@@@@@@@@                                         @@@@@@@@@          - Utility-focused applications
+@@@@@@@@@@@@                                     @@@@@@@@@@@          - Automation tools
+@@@@@@@@@@@@@@@@                             @@@@@@@@@@@@@@@          - Real-world software solutions
+@@@@@@@@@@@@@@@@@@@@@,                 ,@@@@@@@@@@@@@@@@@@@@          - Scalable Web Applications
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@       ......................................
 ```
 
