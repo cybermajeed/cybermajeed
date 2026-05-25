@@ -1,10 +1,15 @@
 <p align="left" style="font-size:large;">
   <img src="https://komarev.com/ghpvc/?username=cybermajeed&label=Profile%20Views&color=0e75b6&style=flat" alt="cybermajeed" />
 </p>
-<h1 align="center">Hi 👋, I'm Adbul Majeed</h1> 
-<h3 align="center">I code</h3>
+<h1 align="center"> Hi, I am Abdul Majeed</h1> 
+<h3 align="center">I automate things so lazy people can be even lazier.
+</h3>
 
 ---
+
+<h2 align=left>About Me</h2>
+
+<!--ascii-->
 
 ```
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    ......................................
