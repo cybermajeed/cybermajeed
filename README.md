@@ -6,16 +6,46 @@
 
 ---
 
+```
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@                 @@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@                             @@@@@@@@@@@@@@@
+@@@@@@@@@@@@                                     @@@@@@@@@@@
+@@@@@@@@@@                                         @@@@@@@@@
+@@@@@@@*       @@@@@@@@@@@@@@@@.                     @@@@@@@
+@@@@@@       @@@@@@@@@@@@@@@@@&                        @@@@@
+@@@@        @@@@@,                       &@@@&          .@@@
+@@@       %@@@@@              ..(((((..    @@@@%          @@
+@@@      @@@@@@              .((((((((.      @@@@,        @@
+@@      @@@@@.               ..(((((((.        @@@         @
+@@     @@@@@                   ......          @@@&        @
+@@     @@@@@                                   @@@&        @
+@@     @@@@@                   ......          @@@&        @
+@@      @@@@@,               ..(((((((.        @@@         @
+@@@      @@@@@@              .((((((((.      @@@@         @@
+@@@       @@@@@@              ..((((*..    @@@@           @@
+@@@@        @@@@@                        %@@@            @@@
+@@@@@@       @@@@@@@@@@@@@@@@@                         @@@@@
+@@@@@@@,       @@@@@@@@@@@@@@@@                      #@@@@@@
+@@@@@@@@@@                                         @@@@@@@@@
+@@@@@@@@@@@@                                     @@@@@@@@@@@
+@@@@@@@@@@@@@@@@                             @@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@,                 ,@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+```
+
+---
+
 <table>
   <tr>
-    <td align=center>About Me</td>
+    <td align=center style="font-weight:700; font-size:large;">About Me</td>
     <td  rowspan=2 align=center>
     <img align="center" width="100%" src="./assets/stable.gif" alt="stable" />
     </td>
   </tr>
   <tr>
     <td align=left>
-    <p  style="overflow-wrap: break-word; width:200px">
+    <p style="overflow-wrap: break-word; text-align: justify;">
 Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
 </p>
     </td>
