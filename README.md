@@ -1,15 +1,14 @@
 <p align="left" style="font-size:large;">
   <img src="https://komarev.com/ghpvc/?username=cybermajeed&label=Profile%20Views&color=0e75b6&style=flat" alt="cybermajeed" />
 </p>
-<h1 align="center">Hi 👋, I'm Adbul Majeed</h1>
+<h1 align="center">Hi 👋, I'm Adbul Majeed</h1> 
 <h3 align="center">I code</h3>
 
 ---
 
-<img align="right" width=400 src="./assets/stable.gif" alt="cybermajeed" />
-
 🔭 I’m currently working on ...
-- 
+
+<img align="right" width=400 src="./assets/stable.gif" alt="cybermajeed" />
 - 🌱 I’m currently learning ...
 - 🌱 I’m currently learning ...
 - 🌱 I’m currently learning ...
@@ -25,7 +24,7 @@
 ---
 
 ### Let's Connect
--
+
 [![github](https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cybermajeed) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cybermajeed) [![mail](https://img.shields.io/badge/mail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdul.zxmajeed@gmail.com) [![linkedin](https://img.shields.io/badge/Linkedin-dodgerblue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cybermajeed/)
 
 ---
