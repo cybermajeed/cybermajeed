@@ -18,8 +18,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cybermajeed&show_icons=true&locale=en&layout=compact" alt="cybermajeed" /></p>
 
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=cybermajeed&show_icons=true&bg_color=000" alt="cybermajeed" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cybermajeed&column=5&margin-w=20&margin-h=20&theme=onestar" alt="cybermajeed" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cybermajeed&column=5&margin-w=20&margin-h=20" alt="cybermajeed" /></a> </p>
-
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cybermajeed&" alt="cybermajeed" /></p>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=cybermajeed&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=cybermajeed&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cybermajeed&layout=compact&theme=github_dark)
