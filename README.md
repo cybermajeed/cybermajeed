@@ -6,20 +6,25 @@
 
 ---
 
-🔭 I’m currently working on ...
-
-<img align="right" width=400 src="./assets/stable.gif" alt="cybermajeed" />
-- 🌱 I’m currently learning ...
-- 🌱 I’m currently learning ...
-- 🌱 I’m currently learning ...
-- 🌱 I’m currently learning ...
-- 🌱 I’m currently learning ...
-- 🌱 I’m currently learning ...
-- 🌱 I’m currently learning ...
-- 🌱 I’m currently learning ...
-- 🌱 I’m currently learning ...
-- 🌱 I’m currently learning ...
-- 🌱 I’m currently learning ...
+<table>
+  <tr>
+    <td align=center>About Me</td>
+    <td  rowspan=2>
+    <img align="right" src="./assets/stable.gif" alt="stable" />
+    </td>
+  </tr>
+  <tr>
+    <td align=left>
+    <p>
+🔭 I’m currently working on ...<br>
+- 🌱 I’m currently learning ...<br>
+- 🌱 I’m currently learning ...<br>
+- 🌱 I’m currently learning ...<br>
+- 🌱 I’m currently learning ...<br>
+</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
