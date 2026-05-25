@@ -18,10 +18,10 @@
 <a style="margin:0 10px; text-decoration:none" href="mailto:abdul.zxmajeed@gmail.com" target="blank">
 <img align="center" src="https://img.shields.io/badge/mail-dodgerblue?style=for-the-badge&logo=gmail&logoColor=white" alt="mail"  />
 </a>
+
 <a style="text-decoration:none;" href="mailto:abdul.zxmajeed@gmail.com" target="blank">
 <img align="center" src="https://img.shields.io/badge/LinkedIn-dodgerblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"  />
 </a>
-
 </p>
 
 ---
