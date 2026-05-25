@@ -12,7 +12,7 @@
 
 ```
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    ......................................
-@@@@@@@@@@@@@@@@@@@@@@                 @@@@@@@@@@@@@@@@@@@@@    Computer Science student building
+@@@@@@@@@@@@@@@@@@@@@@                 @@@@@@@@@@@@@@@@@@@@@Computer Science student building
 @@@@@@@@@@@@@@@@                             @@@@@@@@@@@@@@@    practical softwares, automation tools,
 @@@@@@@@@@@@                                     @@@@@@@@@@@    full-stack applications, and things
 @@@@@@@@@@                                         @@@@@@@@@    nobody asked for but everybody needs.
