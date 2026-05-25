@@ -12,7 +12,7 @@
 ---
 
 <p align="center" style="scale:1.1;" >
-<a style="text-decoration:none;" href="https://www.instagram.com/cybermajeed" target="blank">
+<a style="text-decoration: none;" href="https://www.instagram.com/cybermajeed" target="blank">
 <img align="center" src="https://img.shields.io/badge/Instagram-dodgerblue?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"  />
 </a>
 <a style="margin:0 10px; text-decoration:none" href="mailto:abdul.zxmajeed@gmail.com" target="blank">
