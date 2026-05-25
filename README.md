@@ -11,17 +11,13 @@
 
 ---
 
-### Connect with me:
+### Connect with me
 
 [![github](https://img.shields.io/badge/github-dodgerblue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cybermajeed) [![instagram](https://img.shields.io/badge/Instagram-dodgerblue?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cybermajeed) [![mail](https://img.shields.io/badge/mail-dodgerblue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdul.zxmajeed@gmail.com) [![linkedin](https://img.shields.io/badge/Linkedin-dodgerblue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cybermajeed/)
 
-</a>
-
-</p>
-
 ---
 
-### Languages and Tools:
+### Languages and Tools
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
