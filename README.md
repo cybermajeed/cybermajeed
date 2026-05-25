@@ -7,13 +7,14 @@
 
 - 🌱 I’m currently learning **...**
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
+
 <p align="left">
 <a href="https://instagram.com/cybermajeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cybermajeed" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/cyber_majeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cyber_majeed" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools:
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -38,10 +39,16 @@
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 </p>
 
-![GitHub Stats](https://github-profile-trophy.vercel.app/?username=cybermajeed&column=5&margin-w=20&margin-h=20&theme=onestar)
+### Pinned Repo
+
+![GitHub pinned](https://github-readme-stats-fast.vercel.app/api/pin/?username=cybermajeed&repo=deenbg&theme=github_dark)
+
+![GitHub trophy](https://github-profile-trophy.vercel.app/?username=cybermajeed&column=5&margin-w=20&margin-h=20&theme=onestar)
 \
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=cybermajeed&show_icons=true&theme=github_dark)
 \
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=cybermajeed&theme=github_dark)
+![GitHub streak](https://github-readme-stats-fast.vercel.app/api/streak?username=cybermajeed&theme=github_dark)
 \
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cybermajeed&layout=compact&theme=github_dark)
+![GitHub most used lang](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cybermajeed&layout=compact&theme=github_dark)
+\
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cybermajeed&theme=tokyo-night)
