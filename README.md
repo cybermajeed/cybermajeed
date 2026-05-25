@@ -11,18 +11,14 @@
 
 ---
 
-<p align="center" style="scale:1.1;" >
-<a style="text-decoration: none;" href="https://www.instagram.com/cybermajeed" target="blank">
-<img align="center" src="https://img.shields.io/badge/Instagram-dodgerblue?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"  />
-</a>
-<a style="margin:0 10px; text-decoration:none" href="mailto:abdul.zxmajeed@gmail.com" target="blank">
-<img align="center" src="https://img.shields.io/badge/mail-dodgerblue?style=for-the-badge&logo=gmail&logoColor=white" alt="mail"  />
-</a>
-<br>
+### Connect with me:
 
-<a style="text-decoration:none;" href="mailto:abdul.zxmajeed@gmail.com" target="blank">
-<img align="center" src="https://img.shields.io/badge/LinkedIn-dodgerblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"  />
+[![mail](https://img.shields.io/badge/Instagram-dodgerblue?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cybermajeed)
+[![mail](https://img.shields.io/badge/mail-dodgerblue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdul.zxmajeed@gmail.com)
+[![mail](https://img.shields.io/badge/Linkedin-dodgerblue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cybermajeed/)
+
 </a>
+
 </p>
 
 ---
