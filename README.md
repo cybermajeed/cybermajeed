@@ -47,27 +47,31 @@
 
 ---
 
-### Pinned Repo
+### Top Open Source Projects
 
-![GitHub pinned](https://github-readme-stats-fast.vercel.app/api/pin/?username=cybermajeed&repo=deenbg&theme=github_dark)
+![pinned](https://github-readme-stats-fast.vercel.app/api/pin/?username=cybermajeed&repo=deenbg&theme=github_dark) ![pinned](https://github-readme-stats-fast.vercel.app/api/pin/?username=cybermajeed&repo=cheapgpt&theme=github_dark)
 
 ---
+
+### Trophies
 
 ![GitHub trophy](https://github-profile-trophy.vercel.app/?username=cybermajeed&column=5&margin-w=20&margin-h=20&theme=onestar)
 
 ---
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=cybermajeed&show_icons=true&theme=github_dark)
+### Profile Stats
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=cybermajeed&show_icons=true&theme=github_dark) ![GitHub most used lang](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cybermajeed&layout=compact&theme=github_dark)
 
 ---
+
+### Streak Stats
 
 ![GitHub streak](https://github-readme-stats-fast.vercel.app/api/streak?username=cybermajeed&theme=github_dark)
 
 ---
 
-![GitHub most used lang](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cybermajeed&layout=compact&theme=github_dark)
-
----
+### Contribution Graph
 
 ![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cybermajeed&theme=tokyo-night)
 
