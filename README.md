@@ -87,6 +87,12 @@ Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor inc
 
 ---
 
+### Leetcode Stats
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/cyber_majeed?theme=unicorn)
+
+---
+
 ### Top Open Source Projects
 
 ![pinned](https://github-readme-stats-fast.vercel.app/api/pin/?username=cybermajeed&repo=deenbg&theme=github_dark) ![pinned](https://github-readme-stats-fast.vercel.app/api/pin/?username=cybermajeed&repo=cheapgpt&theme=github_dark)
