@@ -9,8 +9,8 @@
 <table>
   <tr>
     <td align=center>About Me</td>
-    <td  rowspan=2>
-    <img align="right" width="50%" src="./assets/stable.gif" alt="stable" />
+    <td  rowspan=2 align=center>
+    <img align="center" width="50%" src="./assets/stable.gif" alt="stable" />
     </td>
   </tr>
   <tr>
