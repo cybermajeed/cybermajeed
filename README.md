@@ -87,12 +87,6 @@ Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor inc
 
 ---
 
-### Leetcode Stats
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/cyber_majeed?theme=transparent)
-
----
-
 ### Top Open Source Projects
 
 ![pinned](https://github-readme-stats-fast.vercel.app/api/pin/?username=cybermajeed&repo=deenbg&theme=github_dark) ![pinned](https://github-readme-stats-fast.vercel.app/api/pin/?username=cybermajeed&repo=cheapgpt&theme=github_dark)
@@ -102,6 +96,12 @@ Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor inc
 ### Trophies
 
 ![GitHub trophy](https://github-profile-trophy.vercel.app/?username=cybermajeed&column=5&margin-w=20&margin-h=20&theme=onestar)
+
+---
+
+### Leetcode Stats
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/cyber_majeed?theme=nord)
 
 ---
 
