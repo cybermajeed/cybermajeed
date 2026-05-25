@@ -11,7 +11,7 @@
 
 ---
 
-<p align="center" style="scale:1.1">
+<p align="center" style="scale:1.1; text-decoration:none;" >
 <a href="https://www.instagram.com/cybermajeed" target="blank">
 <img align="center" src="https://img.shields.io/badge/Instagram-dodgerblue?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"  />
 </a>
