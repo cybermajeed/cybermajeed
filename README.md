@@ -89,7 +89,7 @@ Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor inc
 
 ### Leetcode Stats
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/cyber_majeed?theme=unicorn)
+![Leetcode Stats](https://leetcard.jacoblin.cool/cyber_majeed?theme=transparent)
 
 ---
 
