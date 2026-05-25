@@ -6,11 +6,11 @@
 
 ---
 
-  <img align="right" width="50%" height=400 src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="cybermajeed" />
+  <img align="right" width="50%" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="cybermajeed" />
 
-- 🔭 I’m currently working on ...
+🔭 I’m currently working on ...
 
-- 🌱 I’m currently learning ...
+🌱 I’m currently learning ...
 
 ---
 
