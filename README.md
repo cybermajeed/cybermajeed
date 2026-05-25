@@ -10,7 +10,7 @@
   <tr>
     <td align=center>About Me</td>
     <td  rowspan=2 align=center>
-    <img align="center" width="50%" src="./assets/stable.gif" alt="stable" />
+    <img align="center" width="100%" src="./assets/stable.gif" alt="stable" />
     </td>
   </tr>
   <tr>
