@@ -16,9 +16,9 @@
 <img align="center" src="https://img.shields.io/badge/Instagram-dodgerblue?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"  />
 </a>
 <a style="margin:0 10px; text-decoration:none" href="mailto:abdul.zxmajeed@gmail.com" target="blank">
-<img style="text-decoration:none;" align="center" src="https://img.shields.io/badge/mail-dodgerblue?style=for-the-badge&logo=gmail&logoColor=white" alt="mail"  />
+<img align="center" src="https://img.shields.io/badge/mail-dodgerblue?style=for-the-badge&logo=gmail&logoColor=white" alt="mail"  />
 </a>
-<a href="mailto:abdul.zxmajeed@gmail.com" target="blank">
+<a style="text-decoration:none;" href="mailto:abdul.zxmajeed@gmail.com" target="blank">
 <img align="center" src="https://img.shields.io/badge/LinkedIn-dodgerblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"  />
 </a>
 
