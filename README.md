@@ -1,7 +1,7 @@
 <p align="left" style="font-size:large;">
   <img src="https://komarev.com/ghpvc/?username=cybermajeed&label=Profile%20Views&color=0e75b6&style=flat" alt="cybermajeed" />
 </p>
-<h1 align="center"> Hi, I am Abdul Majeed</h1> 
+<h1 align="center"> Abdul Majeed</h1> 
 <h4 align="center">I automate things so lazy people can be even lazier.
 </h4>
 
