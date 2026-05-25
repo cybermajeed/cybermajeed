@@ -17,7 +17,7 @@
     <td align=left>
     <p>
 🔭 I’m currently working on ...<br>
-- 🌱 I’m currently learning ...<br>
+- 🌱 I’m currently scdcndjcdjcdnjcdj learning ...<br>
 - 🌱 I’m currently learning ...<br>
 - 🌱 I’m currently learning ...<br>
 - 🌱 I’m currently learning ...<br>
