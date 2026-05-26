@@ -85,9 +85,7 @@
 
 ### Trophies
 
-<!--![GitHub trophy](https://github-profile-trophy.vercel.app/?username=cybermajeed&column=5&margin-w=20&margin-h=20&theme=onestar)
--->
-![trophy](https://github-trophies.vercel.app/?username=cybermajeed)
+![GitHub trophy](https://github-profile-trophy.vercel.app/?username=cybermajeed&column=5&margin-w=20&margin-h=20&theme=onestar)
 
 ---
 
