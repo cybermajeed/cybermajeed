@@ -20,21 +20,21 @@
 @@@@@@       @@@@@@@@@@@@@@@@@&                        @@@@@       Hobby
 @@@@        @@@@@,                       &@@@&          .@@@           - Coding
 @@@       %@@@@@              ..(((((..    @@@@%          @@           - Math
-@@@      @@@@@@              .((((((((.      @@@@,        @@           - Re-inventing the wheel to
-@@      @@@@@.               ..(((((((.        @@@         @             understand how it works
+@@@      @@@@@@              .((((((((.      @@@@,        @@           - Tech Tinkering
+@@      @@@@@.               ..(((((((.        @@@         @           - Stargazing
 @@     @@@@@                   ......          @@@&        @
 @@     @@@@@                                   @@@&        @       Currently Interested In:
 @@     @@@@@                   ......          @@@&        @          - FullStack Development
 @@      @@@@@,               ..(((((((.        @@@         @          - AI Automation
 @@@      @@@@@@              .((((((((.      @@@@         @@          - Cloud Engineering
-@@@       @@@@@@              ..((((*..    @@@@           @@          - Backend Engineering
+@@@       @@@@@@              ..((((*..    @@@@           @@          - Scripting
 @@@@        @@@@@                        %@@@            @@@          - Product Development
 @@@@@@       @@@@@@@@@@@@@@@@@                         @@@@@
 @@@@@@@,       @@@@@@@@@@@@@@@@                      #@@@@@@       What I Like Building:
 @@@@@@@@@@                                         @@@@@@@@@          - Utility-focused applications
 @@@@@@@@@@@@                                     @@@@@@@@@@@          - Automation tools
-@@@@@@@@@@@@@@@@                             @@@@@@@@@@@@@@@          - Real-world software solutions
-@@@@@@@@@@@@@@@@@@@@@,                 ,@@@@@@@@@@@@@@@@@@@@          - Scalable Web Applications
+@@@@@@@@@@@@@@@@                             @@@@@@@@@@@@@@@          - Enterprise level software solutions
+@@@@@@@@@@@@@@@@@@@@@,                 ,@@@@@@@@@@@@@@@@@@@@          - Scalable Applications
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@       ......................................
 ```
 
