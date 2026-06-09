@@ -75,7 +75,7 @@
 
 ### Top Open Source Projects
 
-![pinned](https://github-readme-stats-fast.vercel.app/api/pin/?username=cybermajeed&repo=cheapgpt&theme=holi)
+![pinned](https://github-readme-stats-fast.vercel.app/api/pin/?username=cybermajeed&repo=cheapgpt&theme=holi)(https://github.com/cybermajeed/cheapgpt)
 ![pinned](https://github-readme-stats-fast.vercel.app/api/pin/?username=cybermajeed&repo=electronotes&theme=holi)
 ![pinned](https://github-readme-stats-fast.vercel.app/api/pin/?username=cybermajeed&repo=clickmate&theme=holi)
 ![pinned](https://github-readme-stats-fast.vercel.app/api/pin/?username=cybermajeed&repo=webpad&theme=holi)
@@ -98,7 +98,7 @@
 
 ### Profile Stats
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=cybermajeed&show_icons=true&theme=github_dark) ![GitHub most used lang](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cybermajeed&layout=compact&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=cybermajeed&show_icons=true&theme=github_dark&&include_all_commits=true&number_format=short) ![GitHub most used lang](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cybermajeed&layout=compact&theme=github_dark)
 
 ---
 
