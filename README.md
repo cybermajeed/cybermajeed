@@ -76,10 +76,10 @@
 ### Top Open Source Projects
 
 [![pinned](https://github-readme-stats-fast.vercel.app/api/pin/?username=cybermajeed&repo=cheapgpt&theme=holi)](https://github.com/cybermajeed/cheapgpt)
-![pinned](https://github-readme-stats-fast.vercel.app/api/pin/?username=cybermajeed&repo=electronotes&theme=holi)
-![pinned](https://github-readme-stats-fast.vercel.app/api/pin/?username=cybermajeed&repo=clickmate&theme=holi)
-![pinned](https://github-readme-stats-fast.vercel.app/api/pin/?username=cybermajeed&repo=webpad&theme=holi)
-![pinned](https://github-readme-stats-fast.vercel.app/api/pin/?username=cybermajeed&repo=deenbg&theme=holi)
+[![pinned](https://github-readme-stats-fast.vercel.app/api/pin/?username=cybermajeed&repo=electronotes&theme=holi)](https://github.com/cybermajeed/ElectroNotes)
+[![pinned](https://github-readme-stats-fast.vercel.app/api/pin/?username=cybermajeed&repo=clickmate&theme=holi)](https://github.com/cybermajeed/ClickMate)
+[![pinned](https://github-readme-stats-fast.vercel.app/api/pin/?username=cybermajeed&repo=webpad&theme=holi)](https://github.com/cybermajeed/WebPad)
+[![pinned](https://github-readme-stats-fast.vercel.app/api/pin/?username=cybermajeed&repo=deenbg&theme=holi)](https://github.com/cybermajeed/deenbg)
 
 ---
 
