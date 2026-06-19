@@ -74,6 +74,7 @@
 ---
 
 ### Top Open Source Projects
+
 [![pinned](https://github-readme-stats-fast.vercel.app/api/pin/?username=cybermajeed&repo=moss&theme=holi)](https://github.com/cybermajeed/moss)
 [![pinned](https://github-readme-stats-fast.vercel.app/api/pin/?username=cybermajeed&repo=cheapgpt&theme=holi)](https://github.com/cybermajeed/cheapgpt)
 [![pinned](https://github-readme-stats-fast.vercel.app/api/pin/?username=cybermajeed&repo=electronotes&theme=holi)](https://github.com/cybermajeed/ElectroNotes)
@@ -105,12 +106,11 @@
 
 ![GitHub streak](https://github-readme-stats-fast.vercel.app/api/streak?username=cybermajeed&theme=github_dark)
 
----
-
 <!--
+
+---
 ### Contribution Graph
 
 ![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cybermajeed&theme=tokyo-night)
 
----
 -->
