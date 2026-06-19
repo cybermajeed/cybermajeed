@@ -74,7 +74,7 @@
 ---
 
 ### Top Open Source Projects
-
+[![pinned](https://github-readme-stats-fast.vercel.app/api/pin/?username=cybermajeed&repo=moss&theme=holi)](https://github.com/cybermajeed/moss)
 [![pinned](https://github-readme-stats-fast.vercel.app/api/pin/?username=cybermajeed&repo=cheapgpt&theme=holi)](https://github.com/cybermajeed/cheapgpt)
 [![pinned](https://github-readme-stats-fast.vercel.app/api/pin/?username=cybermajeed&repo=electronotes&theme=holi)](https://github.com/cybermajeed/ElectroNotes)
 [![pinned](https://github-readme-stats-fast.vercel.app/api/pin/?username=cybermajeed&repo=clickmate&theme=holi)](https://github.com/cybermajeed/ClickMate)
