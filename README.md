@@ -112,6 +112,7 @@
 [![pinned](https://github-readme-stats-fast.vercel.app/api/pin/?username=cybermajeed&repo=clickmate&theme=holi)](https://github.com/cybermajeed/ClickMate)
 [![pinned](https://github-readme-stats-fast.vercel.app/api/pin/?username=cybermajeed&repo=speed&theme=holi)](https://github.com/cybermajeed/speed)
 
+[![pinned](https://github-readme-stats-fast.vercel.app/api/pin/?username=cybermajeed&repo=gitscan&theme=holi)](https://github.com/cybermajeed/gitscan)
 [![pinned](https://github-readme-stats-fast.vercel.app/api/pin/?username=cybermajeed&repo=webpad&theme=holi)](https://github.com/cybermajeed/WebPad)
 
 <!--
