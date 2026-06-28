@@ -85,7 +85,7 @@
 
 ### Leetcode Stats
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/cyber_majeed?theme=transparent)
+![Leetcode Stats](https://leetcard.jacoblin.cool/cybermajeed_?theme=transparent)
 
 ---
 
