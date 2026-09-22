@@ -108,7 +108,7 @@
 [![pinned](https://github-readme-stats-fast.vercel.app/api/pin/?username=cybermajeed&repo=deenbg&theme=holi)](https://github.com/cybermajeed/deenbg)
 
 [![pinned](https://github-readme-stats-fast.vercel.app/api/pin/?username=cybermajeed&repo=moss&theme=holi)](https://github.com/cybermajeed/moss)
-![pinned](https://github-readme-stats-fast.vercel.app/api/pin/?username=cybermajeed&repo=fsmod&theme=holi)](https://github.com/cybermajeed/fsmod)
+[![pinned](https://github-readme-stats-fast.vercel.app/api/pin/?username=cybermajeed&repo=fsmod&theme=holi)](https://github.com/cybermajeed/fsmod)]
 
 [![pinned](https://github-readme-stats-fast.vercel.app/api/pin/?username=cybermajeed&repo=clickmate&theme=holi)](https://github.com/cybermajeed/ClickMate)
 [![pinned](https://github-readme-stats-fast.vercel.app/api/pin/?username=cybermajeed&repo=speed&theme=holi)](https://github.com/cybermajeed/speed)
