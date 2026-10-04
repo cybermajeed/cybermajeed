@@ -86,7 +86,7 @@
 ### Leetcode Stats
 
 <!--![Leetcode Stats](https://leetcard.jacoblin.cool/cybermajeed_?theme=transparent)-->
-![LeetCode Stats](https://leetcard.jacoblin.cool/cybermajeed_?theme=radical&font=Faustina&colors=%23000%2C%20%231A1A1A%2C%20%23FFFFFF%2C%20%2300B8A3%2C%20%23FFC01E%2C%20%23216E39&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/cybermajeed?theme=radical&font=Faustina&colors=%23000%2C%20%231A1A1A%2C%20%23FFFFFF%2C%20%2300B8A3%2C%20%23FFC01E%2C%20%23216E39&ext=heatmap)
 
 ---
 
