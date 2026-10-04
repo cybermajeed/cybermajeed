@@ -24,9 +24,9 @@
 @@      @@@@@.               ..(((((((.        @@@         @           - Stargazing
 @@     @@@@@                   ......          @@@&        @
 @@     @@@@@                                   @@@&        @       Currently Interested In:
-@@     @@@@@                   ......          @@@&        @          - FullStack Development
+@@     @@@@@                   ......          @@@&        @          - Tech Startups 
 @@      @@@@@,               ..(((((((.        @@@         @          - AI Automation
-@@@      @@@@@@              .((((((((.      @@@@         @@          - Cloud Engineering
+@@@      @@@@@@              .((((((((.      @@@@         @@          - Prompting
 @@@       @@@@@@              ..((((*..    @@@@           @@          - Scripting
 @@@@        @@@@@                        %@@@            @@@          - Product Development
 @@@@@@       @@@@@@@@@@@@@@@@@                         @@@@@
