@@ -15,20 +15,20 @@
 @@@@@@@@@@@@@@@@@@@@@@                 @@@@@@@@@@@@@@@@@@@@@       Computer Science student on the way to
 @@@@@@@@@@@@@@@@                             @@@@@@@@@@@@@@@       become a software architect, building
 @@@@@@@@@@@@                                     @@@@@@@@@@@       backend systems, automation tools,
-@@@@@@@@@@                                         @@@@@@@@@       end-to-end applications, and things 
+@@@@@@@@@@                                         @@@@@@@@@       end-to-end applications, and things
 @@@@@@@*       @@@@@@@@@@@@@@@@.                     @@@@@@@       nobody asked for but everybody needs.
-@@@@@@       @@@@@@@@@@@@@@@@@&                        @@@@@       
-@@@@        @@@@@,                       &@@@&          .@@@       Hobby:  
-@@@       %@@@@@              ..(((((..    @@@@%          @@          - Coding
+@@@@@@       @@@@@@@@@@@@@@@@@&                        @@@@@
+@@@@        @@@@@,                       &@@@&          .@@@       Hobby:
+@@@       %@@@@@              ..(((((..    @@@@%          @@          - Competitive Programming
 @@@      @@@@@@              .((((((((.      @@@@,        @@          - Math
 @@      @@@@@.               ..(((((((.        @@@         @          - Tech Tinkering
 @@     @@@@@                   ......          @@@&        @          - Stargazing
-@@     @@@@@                                   @@@&        @      
-@@     @@@@@                   ......          @@@&        @       Currently Interested In: 
+@@     @@@@@                                   @@@&        @
+@@     @@@@@                   ......          @@@&        @       Currently Interested In:
 @@      @@@@@,               ..(((((((.        @@@         @          - AI Automation
 @@@      @@@@@@              .((((((((.      @@@@         @@          - Software Architecture
 @@@       @@@@@@              ..((((*..    @@@@           @@          - System Designing
-@@@@        @@@@@                        %@@@            @@@          - Tech Startups 
+@@@@        @@@@@                        %@@@            @@@          - Tech Startups
 @@@@@@       @@@@@@@@@@@@@@@@@                         @@@@@
 @@@@@@@,       @@@@@@@@@@@@@@@@                      #@@@@@@       What I Like Building:
 @@@@@@@@@@                                         @@@@@@@@@          - Utility-focused applications
@@ -48,47 +48,42 @@
 
 ### Languages and Tools
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 30px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
-<img src="https://expressjs.com/images/logos/logo-express-white.svg" alt="express" width="40" height="40" style="background:white;"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://cdn.brandfetch.io/id2alue-rx/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" alt="nextjs" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
+<img src="https://cdn.brandfetch.io/id2alue-rx/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" alt="nextjs" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="vite" width="40" height="40"/>
+<img src="https://expressjs.com/images/logos/logo-express-white.svg" alt="express" width="40" height="40" style="background:#000"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="docker" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
-
----
-
-### Trophies
-
-<!--
-![GitHub trophy](https://github-profile-trophy.vercel.app/?username=cybermajeed&column=5&margin-w=20&margin-h=20&theme=onestar)
--->
-
-![Trophy](https://github-trophies.vercel.app/?username=cybermajeed)
 
 ---
 
 ### Leetcode Stats
 
-<!--![Leetcode Stats](https://leetcard.jacoblin.cool/cybermajeed_?theme=transparent)-->
-![LeetCode Stats](https://leetcard.jacoblin.cool/cybermajeed?theme=radical&font=Faustina&colors=%23000%2C%20%231A1A1A%2C%20%23FFFFFF%2C%20%2300B8A3%2C%20%23FFC01E%2C%20%23216E39&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/cybermajeed?theme=radical&font=Tomorrow&colors=%23000%2C%20%231A1A1A%2C%20%23FFFFFF%2C%20%2300B8A3%2C%20%23FFC01E%2C%20%23216E39&ext=heatmap)
 
 ---
+
+### Trophies
+
+![Trophy](https://github-trophies.vercel.app/?username=cybermajeed&theme=radical&column=3&margin-w=10&margin-h=10)
 
 ### Profile Stats
 
@@ -106,22 +101,12 @@
 
 [![pinned](https://github-readme-stats-fast.vercel.app/api/pin/?username=cybermajeed&repo=electronotes&theme=holi)](https://github.com/cybermajeed/ElectroNotes)
 [![pinned](https://github-readme-stats-fast.vercel.app/api/pin/?username=cybermajeed&repo=deenbg&theme=holi)](https://github.com/cybermajeed/deenbg)
-
 [![pinned](https://github-readme-stats-fast.vercel.app/api/pin/?username=cybermajeed&repo=moss&theme=holi)](https://github.com/cybermajeed/moss)
 [![pinned](https://github-readme-stats-fast.vercel.app/api/pin/?username=cybermajeed&repo=fsmod&theme=holi)](https://github.com/cybermajeed/fsmod)]
-
 [![pinned](https://github-readme-stats-fast.vercel.app/api/pin/?username=cybermajeed&repo=clickmate&theme=holi)](https://github.com/cybermajeed/ClickMate)
 [![pinned](https://github-readme-stats-fast.vercel.app/api/pin/?username=cybermajeed&repo=speed&theme=holi)](https://github.com/cybermajeed/speed)
-
 [![pinned](https://github-readme-stats-fast.vercel.app/api/pin/?username=cybermajeed&repo=gitscan&theme=holi)](https://github.com/cybermajeed/gitscan)
 [![pinned](https://github-readme-stats-fast.vercel.app/api/pin/?username=cybermajeed&repo=webpad&theme=holi)](https://github.com/cybermajeed/WebPad)
-
 [![pinned](https://github-readme-stats-fast.vercel.app/api/pin/?username=cybermajeed&repo=cheapgpt&theme=holi)](https://github.com/cybermajeed/cheapgpt)
-<!--
 
 ---
-### Contribution Graph
-
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cybermajeed&theme=tokyo-night)
-
--->
