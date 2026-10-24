@@ -12,11 +12,11 @@
 
 ```
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@       ......................................
-@@@@@@@@@@@@@@@@@@@@@@                 @@@@@@@@@@@@@@@@@@@@@       Computer Science student building
-@@@@@@@@@@@@@@@@                             @@@@@@@@@@@@@@@       practical softwares, automation tools,
-@@@@@@@@@@@@                                     @@@@@@@@@@@       full-stack applications, and things
-@@@@@@@@@@                                         @@@@@@@@@       nobody asked for but everybody needs.
-@@@@@@@*       @@@@@@@@@@@@@@@@.                     @@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@                 @@@@@@@@@@@@@@@@@@@@@       Computer Science student on the way to
+@@@@@@@@@@@@@@@@                             @@@@@@@@@@@@@@@       become a software architect, building
+@@@@@@@@@@@@                                     @@@@@@@@@@@       backend systems, automation tools,
+@@@@@@@@@@                                         @@@@@@@@@       end-to-end applications, and things nobody
+@@@@@@@*       @@@@@@@@@@@@@@@@.                     @@@@@@@       asked for but everybody needs.
 @@@@@@       @@@@@@@@@@@@@@@@@&                        @@@@@       Hobby
 @@@@        @@@@@,                       &@@@&          .@@@           - Coding
 @@@       %@@@@@              ..(((((..    @@@@%          @@           - Math
@@ -26,13 +26,13 @@
 @@     @@@@@                                   @@@&        @       Currently Interested In:
 @@     @@@@@                   ......          @@@&        @          - Tech Startups 
 @@      @@@@@,               ..(((((((.        @@@         @          - AI Automation
-@@@      @@@@@@              .((((((((.      @@@@         @@          - Prompting
-@@@       @@@@@@              ..((((*..    @@@@           @@          - Scripting
+@@@      @@@@@@              .((((((((.      @@@@         @@          - Software Architecture
+@@@       @@@@@@              ..((((*..    @@@@           @@          - System Designing
 @@@@        @@@@@                        %@@@            @@@          - Product Development
 @@@@@@       @@@@@@@@@@@@@@@@@                         @@@@@
 @@@@@@@,       @@@@@@@@@@@@@@@@                      #@@@@@@       What I Like Building:
 @@@@@@@@@@                                         @@@@@@@@@          - Utility-focused applications
-@@@@@@@@@@@@                                     @@@@@@@@@@@          - Automation tools
+@@@@@@@@@@@@                                     @@@@@@@@@@@          - Backend and Automation tools
 @@@@@@@@@@@@@@@@                             @@@@@@@@@@@@@@@          - Enterprise level software solutions
 @@@@@@@@@@@@@@@@@@@@@,                 ,@@@@@@@@@@@@@@@@@@@@          - Scalable Applications
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@       ......................................
