@@ -13,7 +13,7 @@
 ```
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@       ........................................
 @@@@@@@@@@@@@@@@@@@@@@                 @@@@@@@@@@@@@@@@@@@@@       Computer Science student on the way to
-@@@@@@@@@@@@@@@@                             @@@@@@@@@@@@@@@       become a software architect, building
+@@@@@@@@@@@@@@@@                             @@@@@@@@@@@@@@@       become a software architect. Building
 @@@@@@@@@@@@                                     @@@@@@@@@@@       backend systems, automation tools,
 @@@@@@@@@@                                         @@@@@@@@@       end-to-end applications, and things
 @@@@@@@*       @@@@@@@@@@@@@@@@.                     @@@@@@@       nobody asked for but everybody needs.
@@ -25,14 +25,14 @@
 @@     @@@@@                   ......          @@@&        @          - Stargazing
 @@     @@@@@                                   @@@&        @
 @@     @@@@@                   ......          @@@&        @       Currently Interested In:
-@@      @@@@@,               ..(((((((.        @@@         @          - AI Automation
-@@@      @@@@@@              .((((((((.      @@@@         @@          - Software Architecture
-@@@       @@@@@@              ..((((*..    @@@@           @@          - System Designing
-@@@@        @@@@@                        %@@@            @@@          - Tech Startups
+@@      @@@@@,               ..(((((((.        @@@         @          - Software Architecture
+@@@      @@@@@@              .((((((((.      @@@@         @@          - System Designing
+@@@       @@@@@@              ..((((*..    @@@@           @@          - Tech Startups
+@@@@        @@@@@                        %@@@            @@@          - AI Automation
 @@@@@@       @@@@@@@@@@@@@@@@@                         @@@@@
 @@@@@@@,       @@@@@@@@@@@@@@@@                      #@@@@@@       What I Like Building:
-@@@@@@@@@@                                         @@@@@@@@@          - Utility-focused applications
-@@@@@@@@@@@@                                     @@@@@@@@@@@          - Backend and Automation tools
+@@@@@@@@@@                                         @@@@@@@@@          - Backend and automation tools
+@@@@@@@@@@@@                                     @@@@@@@@@@@          - Utility-focused applications
 @@@@@@@@@@@@@@@@                             @@@@@@@@@@@@@@@          - Enterprise level software solutions
 @@@@@@@@@@@@@@@@@@@@@,                 ,@@@@@@@@@@@@@@@@@@@@          - Scalable Applications
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@       ........................................
@@ -48,7 +48,7 @@
 
 ### Languages and Tools
 
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 30px;">
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 50px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
